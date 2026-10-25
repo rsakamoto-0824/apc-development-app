@@ -1,0 +1,13 @@
+build/
+exports/
+test-results/
+release/*.zip
+*.asv
+*.fig
+*.mat
+*.xlsx
+*.xls
+*.ctf
+*.exe
+*.dll
+.DS_Store
